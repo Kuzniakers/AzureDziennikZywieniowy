@@ -1,89 +1,89 @@
-# Dziennik Żywieniowy
+# Nutrition Journal
 
-## Przygotował
+## Created by
 - Konrad Kuźniak
 
-## Opis Projektu
-Dziennik Żywieniowy to aplikacja webowa, która pozwala użytkownikom monitorować spożycie kalorii, zarządzać swoimi posiłkami oraz śledzić aktywność fizyczną. Projekt został stworzony z myślą o użytkownikach, którzy chcą lepiej kontrolować swoją dietę i zdrowie. Użytkownicy mogą dodawać nowe produkty, posiłki, a także śledzić deficyt kaloryczny na podstawie danych o aktywności fizycznej.
+## Project Description
+The Nutrition Journal is a web application that allows users to monitor calorie intake, manage their meals, and track physical activity. The project was designed for users who want better control over their diet and health. Users can add new products, meals, and track their calorie deficit based on their physical activity data.
 
-Aplikacja została podzielona na dwie główne części:
-1. **Frontend** – interfejs użytkownika, zapewniający przejrzystość i prostotę obsługi.
-2. **Backend (API)** – przetwarzanie danych, komunikacja z bazą oraz logika aplikacji.
+The application is divided into two main components:
+1. **Frontend** – User interface providing clarity and ease of use.
+2. **Backend (API)** – Data processing, database communication, and application logic.
 
-Aplikacja została wdrożona w chmurze Microsoft Azure dla lepszej skalowalności i łatwości utrzymania.
+The application has been deployed to Microsoft Azure cloud for scalability and easier maintenance.
 
 ---
 
-## Funkcjonalności
+## Features
 
 ### 1. Frontend
-Frontend aplikacji zbudowano w technologii ASP.NET Core MVC. Główne funkcje:
-- Wyświetlanie tabel z danymi użytkownika (produkty, posiłki, aktywności).
-- Możliwość filtrowania danych w tabelach (np. po nazwie produktu, dacie).
-- Formularze do dodawania nowych produktów, posiłków oraz aktywności.
+The frontend was built using ASP.NET Core MVC. Main features include:
+- Displaying user data in tables (products, meals, activities).
+- Filtering data in tables (e.g., by product name or date).
+- Forms for adding new products, meals, and activities.
 
 ### 2. Backend (API)
-Backend to RESTful API, zbudowane przy użyciu ASP.NET Core. Główne funkcje:
-- Endpointy CRUD (odczyt, dodawanie, edycja, usuwanie) dla produktów, posiłków oraz aktywności.
-- Obsługa zapytań GET, POST, PUT i DELETE.
-- Dokumentacja API dostępna w **Swagger UI**.
+The backend is a RESTful API built with ASP.NET Core. Main features include:
+- CRUD endpoints (create, read, update, delete) for products, meals, and activities.
+- Support for GET, POST, PUT, and DELETE requests.
+- API documentation available via **Swagger UI**.
 
-### 3. Baza danych
-- Baza danych w Azure SQL Database.
-- Przechowywanie danych o produktach, posiłkach i aktywnościach w sposób bezpieczny i wydajny.
+### 3. Database
+- The database is hosted on Azure SQL Database.
+- Secure and efficient storage of products, meals, and activities data.
 
-### 4. Deployment w Azure
-- Aplikacja wdrożona jako kontenery Dockerowe w Azure App Service.
-- **Azure Container Registry (ACR)** przechowuje obrazy Dockerowe.
+### 4. Deployment on Azure
+- The application is deployed as Docker containers in Azure App Service.
+- **Azure Container Registry (ACR)** stores Docker images.
 
-### 5. Kluczowe funkcje
-- Wyświetlanie danych z możliwością filtrowania.
-- Dodawanie nowych produktów, posiłków i aktywności.
-- Dokumentacja API w **Swagger UI**.
-
----
-
-## Technologie i Narzędzia
-
-### Technologie
-- **ASP.NET Core MVC** – frontend i backend.
-- **Entity Framework Core** – obsługa bazy danych.
-- **Docker** – konteneryzacja aplikacji.
-- **Microsoft Azure** – chmura do hostowania aplikacji.
-
-### Narzędzia
-- **Visual Studio 2022** – IDE używane do tworzenia projektu.
-- **Swagger UI** – testowanie API.
-- **Azure App Service** – hostowanie kontenerów.
-- **Azure Container Registry (ACR)** – rejestr obrazów Dockerowych.
+### 5. Key Functions
+- Data display with filtering options.
+- Adding new products, meals, and activities.
+- API documentation through **Swagger UI**.
 
 ---
 
-## Proces Tworzenia
-1. **Planowanie** – określenie funkcjonalności i zaprojektowanie architektury.
-2. **Budowa API** – implementacja CRUD i konfiguracja Swagger UI.
-3. **Budowa Frontendu** – tworzenie widoków oraz formularzy.
-4. **Integracja** – połączenie frontendu z backendem.
-5. **Deployment** – konteneryzacja aplikacji i wdrożenie w Azure.
-6. **Testowanie** – testy jednostkowe i integracyjne.
+## Technologies and Tools
+
+### Technologies
+- **ASP.NET Core MVC** – For both frontend and backend.
+- **Entity Framework Core** – Database handling.
+- **Docker** – Application containerization.
+- **Microsoft Azure** – Cloud hosting for the application.
+
+### Tools
+- **Visual Studio 2022** – IDE used for development.
+- **Swagger UI** – API testing.
+- **Azure App Service** – Container hosting.
+- **Azure Container Registry (ACR)** – Docker image storage.
 
 ---
 
-## Architektura Systemu
-- **Frontend:** Aplikacja MVC hostowana w kontenerze Azure.
-- **Backend (API):** RESTful API hostowane w Azure.
-- **Baza danych:** Azure SQL Database, zintegrowana z backendem.
+## Development Process
+1. **Planning** – Defining functionalities and designing application architecture.
+2. **API Development** – Implementing CRUD operations and configuring Swagger UI.
+3. **Frontend Development** – Creating views and forms.
+4. **Integration** – Connecting the frontend to the backend.
+5. **Deployment** – Containerizing the application and deploying to Azure.
+6. **Testing** – Unit and integration tests.
 
 ---
 
-## Linki
+## System Architecture
+- **Frontend:** MVC application hosted in an Azure container.
+- **Backend (API):** RESTful API hosted in Azure.
+- **Database:** Azure SQL Database integrated with the backend.
+
+---
+
+## Links
 
 - **Backend API:** [Swagger UI](https://dziennikzywieniowybackendapi-fvf8bnepbfghabfk.polandcentral-01.azurewebsites.net/swagger/index.html)  
-- **Aplikacja:** [Dziennik Żywieniowy](https://dziennikzywieniowy-hhcng7h9g8f3gebq.polandcentral-01.azurewebsites.net/)  
+- **Application:** [Nutrition Journal](https://dziennikzywieniowy-hhcng7h9g8f3gebq.polandcentral-01.azurewebsites.net/)  
 
 ---
 
-## Podsumowanie
-Projekt Dziennik Żywieniowy to kompleksowa aplikacja umożliwiająca zarządzanie dietą i aktywnością fizyczną. Dzięki zastosowaniu technologii takich jak ASP.NET Core, Docker i Microsoft Azure, aplikacja jest skalowalna, łatwa w utrzymaniu i dostarcza użytkownikom wartościowych funkcji.
+## Summary
+The Nutrition Journal is a comprehensive application for managing diet and physical activity. By utilizing technologies such as ASP.NET Core, Docker, and Microsoft Azure, the application is scalable, easy to maintain, and provides valuable features to users.
 
-W przyszłości planowany jest rozwój funkcji takich jak autoryzacja użytkowników, raportowanie oraz integracja z zewnętrznymi API fitness.
+Future development plans include implementing user authentication, advanced reporting, and integration with external fitness APIs.
