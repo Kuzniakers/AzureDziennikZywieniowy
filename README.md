@@ -80,7 +80,6 @@ Backend to RESTful API, zbudowane przy użyciu ASP.NET Core. Główne funkcje:
 
 - **Backend API:** [Swagger UI](https://dziennikzywieniowybackendapi-fvf8bnepbfghabfk.polandcentral-01.azurewebsites.net/swagger/index.html)  
 - **Aplikacja:** [Dziennik Żywieniowy](https://dziennikzywieniowy-hhcng7h9g8f3gebq.polandcentral-01.azurewebsites.net/)  
-- **Prezentacja:** [YouTube](https://www.youtube.com/watch?v=QfPLMRlSa6c&ab_channel=Coderad)
 
 ---
 
