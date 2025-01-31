@@ -1,0 +1,45 @@
+﻿@model IEnumerable<dziennikzywieniowy.Models.Product>
+
+<h2>Lista produktów</h2>
+
+<form method="get" class="mb-3">
+    <div class="row">
+        <div class="col-md-4">
+            <input type="text" name="searchName" class="form-control" placeholder="Nazwa produktu" value="@ViewBag.SearchName" />
+        </div>
+        <div class="col-md-4">
+            <input type="text" name="searchCategory" class="form-control" placeholder="Kategoria" value="@ViewBag.SearchCategory" />
+        </div>
+        <div class="col-md-4">
+            <button type="submit" class="btn btn-primary">Szukaj</button>
+            <a asp-action="Index" class="btn btn-secondary">Wyczyść</a>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Kategoria</th>
+            <th>Cena</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Category</td>
+                <td>@product.Price.ToString("F2")</td>
+                <td>
+                    <a class="btn btn-primary" href="/Products/Edit/@product.Id">Edytuj</a>
+                    <a class="btn btn-danger" href="/Products/Delete/@product.Id">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success" asp-action="Create">Dodaj nowy produkt</a>

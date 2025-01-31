@@ -1,0 +1,33 @@
+﻿@model IEnumerable<dziennikzywieniowy.Models.Entry>
+
+<h2>Posiłki</h2>
+
+<table class="table table-bordered text-center">
+    <thead class="thead-dark">
+        <tr>
+            <th>Nazwa posiłku</th>
+            <th>Data</th>
+            <th>Kalorie</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entry in Model)
+        {
+            <tr>
+                <td>@entry.MealName</td>
+                <td>@entry.Date.ToShortDateString()</td>
+                <td>@entry.Calories</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@entry.Id">Edytuj</a>
+                    <form asp-action="Delete" asp-route-id="@entry.Id" method="post" style="display:inline;">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-danger btn-sm">Usuń</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-success btn-lg" asp-action="Create">Dodaj nowy posiłek</a>

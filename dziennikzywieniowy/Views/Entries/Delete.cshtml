@@ -1,0 +1,17 @@
+﻿@model dziennikzywieniowy.Models.Entry
+
+<h2>Usuń posiłek</h2>
+
+<p>Czy na pewno usunąć ten posiłek?</p>
+<ul>
+    <li><strong>Nazwa posiłku:</strong> @Model.MealName</li>
+    <li><strong>Data:</strong> @Model.Date.ToShortDateString()</li>
+    <li><strong>Kalorie:</strong> @Model.Calories</li>
+</ul>
+
+<form asp-action="RemoveEntry" asp-route-id="@Model.Id" method="post">
+    <input type="hidden" name="_method" value="DELETE" />
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Usuń</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

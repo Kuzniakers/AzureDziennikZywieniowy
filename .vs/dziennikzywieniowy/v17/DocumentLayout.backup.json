@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\controllers\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\controllers\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\models\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\models\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\entries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\entries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowyapi\\dziennikzywieniowyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E03617AF-A58C-4F16-B724-33CF8D22F0FB}|DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj|solutionrelative:dziennikzywieniowyapi\\dziennikzywieniowyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\entries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\entries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\entries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\entries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\caloricdeficit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\caloricdeficit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\controllers\\caloricdeficitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\controllers\\caloricdeficitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\caloricdeficit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\caloricdeficit\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\controllers\\entriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\caloricdeficit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\caloricdeficit\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\caloricdeficit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\caloricdeficit\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\entries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\entries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\models\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\models\\caloricdeficit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\models\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|c:\\users\\progamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5787E1CC-5954-40CD-A1F8-3985AEF32918}|dziennikzywieniowy\\dziennikzywieniowy.csproj|solutionrelative:dziennikzywieniowy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T14:20:16.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Program.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:29:40.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\appsettings.json",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T19:28:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaloricDeficit.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\CaloricDeficit.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Controllers\\CaloricDeficit.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\CaloricDeficit.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Controllers\\CaloricDeficit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:48:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\EntriesController.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Controllers\\EntriesController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\EntriesController.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Controllers\\EntriesController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:50:20.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:16:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Entries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Delete.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Entries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T20:45:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:32:21.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaloricDeficit.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\CaloricDeficit.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Models\\CaloricDeficit.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\CaloricDeficit.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Models\\CaloricDeficit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:51:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\Entry.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Models\\Entry.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\Entry.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Models\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:38:17.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:52:41.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Models\\Products.cs",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T08:53:02.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DziennikZywieniowyAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\DziennikZywieniowyAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T19:47:31.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Dockerfile",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Dockerfile",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Dockerfile",
+              "RelativeToolTip": "dziennikzywieniowy\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-25T19:08:30.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "DziennikZywieniowyAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\DziennikZywieniowyAPI\\Dockerfile",
+              "RelativeToolTip": "DziennikZywieniowyAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-25T19:54:44.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Entries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Edit.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Entries\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T21:36:42.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Index.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Entries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Index.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Entries\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T18:38:58.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Create.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Entries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Entries\\Create.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Entries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T18:39:13.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CaloricDeficitController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\CaloricDeficitController.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Controllers\\CaloricDeficitController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\CaloricDeficitController.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Controllers\\CaloricDeficitController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:14:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:27:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T20:24:30.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\EntriesController.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Controllers\\EntriesController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\EntriesController.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Controllers\\EntriesController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:37:50.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Delete.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\CaloricDeficit\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Delete.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\CaloricDeficit\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:16:26.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:25:20.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Index.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\CaloricDeficit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Index.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\CaloricDeficit\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:15:35.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Create.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\CaloricDeficit\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Create.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\CaloricDeficit\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:15:52.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Edit.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\CaloricDeficit\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\CaloricDeficit\\Edit.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\CaloricDeficit\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:16:06.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T20:24:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T23:55:54.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T20:29:32.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:25:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Program.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Program.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Program.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:24:25.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\appsettings.json",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\appsettings.json",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\appsettings.json",
+              "RelativeToolTip": "dziennikzywieniowy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T18:23:54.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:27:00.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\Entry.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Models\\Entry.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\Entry.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Models\\Entry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:21:24.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\Product.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:28:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CaloricDeficit.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\CaloricDeficit.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Models\\CaloricDeficit.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Models\\CaloricDeficit.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Models\\CaloricDeficit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T23:11:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:23:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T21:40:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250126003704_RemoveProductIdFromEntries.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Migrations\\20250126003704_RemoveProductIdFromEntries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:37:04.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250126003626_UpdateEntryWithProduct22.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Migrations\\20250126003626_UpdateEntryWithProduct22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:36:26.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250126003255_UpdateEntryWithProduct2.cs",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs",
+              "RelativeToolTip": "dziennikzywieniowy\\Migrations\\20250126003255_UpdateEntryWithProduct2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:32:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T21:41:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dziennikzywieniowy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ProGamer\\source\\repos\\dziennikzywieniowy\\dziennikzywieniowy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dziennikzywieniowy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-25T20:38:08.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

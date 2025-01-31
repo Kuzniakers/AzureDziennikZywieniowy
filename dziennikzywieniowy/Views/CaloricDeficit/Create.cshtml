@@ -1,0 +1,20 @@
+﻿@model dziennikzywieniowy.Models.CaloricDeficit
+
+<h2>Dodaj swoją aktywność</h2>
+
+<form asp-action="Create" method="post" class="form">
+    <div class="form-group">
+        <label>Wykonana aktywność:</label>
+        <input asp-for="ActivityName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Data:</label>
+        <input asp-for="Date" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Liczba spalonych kalorii:</label>
+        <input asp-for="CaloriesBurned" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Dodaj</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

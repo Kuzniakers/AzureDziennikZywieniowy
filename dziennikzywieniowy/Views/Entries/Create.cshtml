@@ -1,0 +1,23 @@
+﻿@model dziennikzywieniowy.Models.Entry
+
+<h2>Dodaj nowy posiłek</h2>
+
+<form asp-action="Create" method="post" class="form">
+    <div class="form-group mb-3">
+        <label asp-for="MealName" class="form-label">Nazwa posiłku</label>
+        <input asp-for="MealName" class="form-control" />
+        <span asp-validation-for="MealName" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Date" class="form-label">Data</label>
+        <input asp-for="Date" type="date" class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="Calories" class="form-label">Kalorie</label>
+        <input asp-for="Calories" class="form-control" />
+        <span asp-validation-for="Calories" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Dodaj</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

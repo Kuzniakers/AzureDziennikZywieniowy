@@ -1,0 +1,19 @@
+﻿@model dziennikzywieniowy.Models.Product
+
+<h2>Usuń Produkt</h2>
+
+<p>Czy na pewno usunąć ten produkt?</p>
+
+<dl>
+    <dt>Nazwa</dt>
+    <dd>@Model.Name</dd>
+    <dt>Cena</dt>
+    <dd>@Model.Price</dd>
+</dl>
+
+<form asp-action="RemoveProduct" asp-route-id="@Model.Id" method="post">
+    <input type="hidden" name="_method" value="DELETE" />
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Usuń</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

@@ -1,0 +1,20 @@
+﻿@model dziennikzywieniowy.Models.Entry
+
+<h2>Edytuj posiłek</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label>Nazwa posiłku:</label>
+        <input asp-for="MealName" />
+    </div>
+    <div>
+        <label>Data:</label>
+        <input asp-for="Date" type="date" />
+    </div>
+    <div>
+        <label>Kategoria:</label>
+        <input asp-for="Calories" />
+    </div>
+    <button type="submit">Zapisz</button>
+</form>
