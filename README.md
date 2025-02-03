@@ -5,6 +5,7 @@
 
 ## Project Description
 The Nutrition Journal is a web application that allows users to monitor calorie intake, manage their meals, and track physical activity. The project was designed for users who want better control over their diet and health. Users can add new products, meals, and track their calorie deficit based on their physical activity data.
+At this moment procjet is on hold in fact that I spend all credits form "Azure for students" subscritpion but it will back soon !
 
 The application is divided into two main components:
 1. **Frontend** – User interface providing clarity and ease of use.
